@@ -1,0 +1,10 @@
+{
+    "name": "Parkwan",
+    "description": "Custom blocks for Parkwan project",
+    "version": "0.0.1",
+    "files": [
+        "bits.ts"
+    ],
+    "public": true,
+    "license": "MIT"
+}
